@@ -1,27 +1,49 @@
-<h1 align="center">Hi 👋, I'm Aung Kyaw Zin</h1>
-<h3 align="center">A passionate developer from the UK</h3>
-<img align="center" alt = "Coding” width = "400" src="https://i.pinimg.com/originals/91/90/8a/91908ad2f9aef293ed840739a291e9db.gif" 
-     alt="London Animated: Creative studio life in GIFs by Wayne Dorrington" 
-     ”>
+# Hi, I'm Aung Kyaw Zin 👋
 
+Final-year Computer Science student at the University of Chester (Predicted First Class, July 2026).
+I build Android applications, backend systems, and data-driven tools — and I'm actively seeking
+a graduate software engineering role from July 2026.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kb1r&label=Profile%20views&color=0e75b6&style=flat" alt="kb1r" /> </p>
+📄 [Portfolio](https://aungkyawzin.me) • 💼 [LinkedIn](https://linkedin.com/in/aung-zin-tech)
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+---
 
-- 🌱 I’m currently learning **Swift**
+## 🔧 What I Work With
 
-- 💬 Ask me about **Kotlin, Webdev**
+**Mobile & Backend**
+Kotlin • Android (MVVM, Room, SQLite) • C# • ASP.NET Core • SQL Server
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+**Data & ML**
+Python • scikit-learn • Pandas • Matplotlib • R
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+**Tools**
+Git • Agile/Scrum • GitHub Copilot • REST APIs
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kb1r&show_icons=true&locale=en&layout=compact" alt="kb1r" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kb1r&show_icons=true&locale=en" alt="kb1r" /></p>
+## 🚀 Featured Projects
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kb1r&" alt="kb1r" /></p>
+| Project | Tech | Description |
+|---|---|---|
+| [Digital Sheet Music App](https://github.com/Kb1r/android-sheet-music-app-gigmode) | Kotlin, MVVM, Room | Final year project — solo-built Android app for musicians to manage and display sheet music |
+| [Food Order Management System](https://github.com/Kb1r/FoodOrderSystem_J103042) | C#, ASP.NET Core, SQL Server | Full-stack web application for restaurant order management |
+| [Breast Cancer Classification](https://github.com/Kb1r/breast-cancer-mining) | Python, scikit-learn | ML model achieving 90%+ accuracy on medical dataset |
+| [Chester Military Museum App](https://github.com/Kb1r/Chester-Military-Museum) | Kotlin, Agile/Scrum | Real-client Android app delivered in a team under Agile methodology |
+
+---
+
+## 📚 Publication
+
+**Mental Health Analytics in the Workplace: Leveraging AI and Big Data**
+Co-authored book chapter — NIPA 2025
+Applying machine learning and big data techniques to workplace mental health datasets.
+
+---
+
+## 📬 Get In Touch
+
+- 📧 aungkzin24@gmail.com
+- 🌐 [aungkyawzin.me](https://aungkyawzin.me)
+- 📍 Chester, UK — open to relocate anywhere in the UK
+
+*Currently open to graduate software engineering opportunities from July 2026.*
